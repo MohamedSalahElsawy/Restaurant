@@ -292,6 +292,7 @@ color: #ff530a;
 .Blog .blogimg{
     display: grid;
     grid-template-columns: 50% 50%;
+    overflow: hidden;
 }
 .Blog .blogimg .div2{
     display: grid;
